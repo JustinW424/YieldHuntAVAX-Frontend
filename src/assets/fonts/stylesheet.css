@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "fsex300";
+    src: local("fsex300"), url("FSEX300.ttf") format("truetype");
+}
+@font-face {
+    font-family: "alagard";
+    src: local("alagard"), url("alagard.ttf") format("truetype");
+}
